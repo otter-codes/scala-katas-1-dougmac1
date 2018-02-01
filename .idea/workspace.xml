@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="121c4ba5-4b29-412e-b3e0-f921e1d8dfda" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/scala/example/Katas/NegativeNums.sc" afterPath="$PROJECT_DIR$/src/main/scala/example/Katas/NegativeNums.sc" />
-    </list>
+    <list default="true" id="121c4ba5-4b29-412e-b3e0-f921e1d8dfda" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -31,11 +29,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountOdds.sc" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CountOdds.sc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/example/Katas/CountOdds.sc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Century.sc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/example/Katas/Century.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -87,6 +95,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/example/Katas/RemoveFirstAndLast.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/example/Katas/NegativeNums.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/example/Katas/CountOdds.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/example/Katas/Century.sc" />
       </list>
     </option>
   </component>
@@ -433,6 +442,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/Katas/Century.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
         </state>
       </provider>
