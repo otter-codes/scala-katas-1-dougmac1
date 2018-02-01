@@ -7,4 +7,4 @@ def negative (number: Int) : Int = {
 }
 
 
-negative(0)
+negative (0)
