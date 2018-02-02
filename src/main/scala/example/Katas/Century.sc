@@ -1,4 +1,4 @@
 def century(int: Int) : Int = {
   (int/100.00).ceil.toInt
 }
-century(2001)
+century(2000)
